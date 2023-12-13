@@ -1,0 +1,24 @@
+{
+  "lcList": [
+    {
+      "reference":"123DSF48091234",
+      "issuedDate":"2021-07-05",
+      "status":"OPENED",
+      "amount": {
+          "amount": "1000.40",
+          "currency": "EUR"
+      },
+      "lcImageUrl": "https://sberbusiness.live/uploads/media/post_detail/0001/12/thumb_11806_post_detail_desktop_webp.webp"
+    },{
+      "reference":"456DS  48091235",
+      "issuedDate":"2020-03-12",
+      "status":"CLOSED",
+      "closedDate":"2023-12-13",
+      "amount": {
+        "amount": "2000.50",
+        "currency": "RUB"
+      },
+      "lcImageUrl": "https://sberbusiness.live/uploads/media/setka/0001/02/0fa2d4ec2651536da11f9923c7039c1169dc823d.png"
+    }
+  ]
+}
